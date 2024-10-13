@@ -1,6 +1,6 @@
 # Caso práctico curso Analista de datos de Google
 
-Este código pertenece al curso Analista de datos de Google, está realizado en R, puede descargarse en archivo html o verse en R Studio, el archivo terminado en md.
+Este código pertenece al curso Analista de datos de Google, está realizado en R, puede descargarse en archivo html: analisis_cuaderno.html o verse analisis_cuaderno.md en R Studio.
 
 # Escenario
 
