@@ -2,6 +2,8 @@
 
 Este código pertenece al curso Analista de datos de Google, está realizado en R, puede descargarse en archivo html: analisis_cuaderno.html o verse analisis_cuaderno.md en R Studio.
 
+Los datos utilizados para este estudio son de dominio público, disponibles a través de [Mobius] (https://www.kaggle.com/datasets/arashnic/fitbit).
+
 # Escenario
 
 Eres un analista de datos júnior que trabaja en el equipo de analistas de marketing de **Bellabeat**, fabricante de productos de alta tecnología orientados a la salud de la mujer. Bellabeat es una empresa pequeña exitosa, pero tiene el potencial para convertirse en un actor más grande en el mercado global de dispositivos inteligentes. **Urška Sršen**, cofundadora y directora creativa de Bellabeat, cree que analizar los datos de actividad física de los dispositivos inteligentes podría desplegar nuevas oportunidades de negocio para la empresa. Te han pedido que te concentres en uno de los productos de Bellabeat y analices los datos de los dispositivos inteligentes para conocer el uso que hacen los consumidores de sus dispositivos inteligentes. Los hallazgos que descubras ayudarán a orientar la estrategia de marketing de la empresa. Presentarás tu análisis al equipo ejecutivo de Bellabeat junto con tus recomendaciones de alto nivel para la estrategia de marketing de Bellabeat.
