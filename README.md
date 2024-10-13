@@ -2,6 +2,8 @@
 
 Este código pertenece al curso Analista de datos de Google, está realizado en R, puede descargarse en archivo html: analisis_cuaderno.html o verse analisis_cuaderno.md en R Studio.
 
+Para más comodidad he añadido el archivo en pdf.
+
 Los datos utilizados para este estudio son de dominio público, disponibles a través de [Mobius](https://www.kaggle.com/datasets/arashnic/fitbit).
 
 # Escenario
