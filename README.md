@@ -9,7 +9,7 @@ Personajes y productos
 ●	Personajes
 ○	Urška Sršen: Cofundadora y directora creativa de Bellabeat
 ○	Sando Mur: Matemático y cofundador de Bellabeat, miembro clave del equipo ejecutivo de Bellabeat.
-○	Equipo de análisis computacional de datos de marketing de Bellabeat: Un equipo de analistas de datos que se encarga de recopilar, analizar e informar datos que ayudan a conducir la estrategia de marketing de Bellabeat. Te incorporaste a este equipo hace seis meses y te has dedicado a conocer la misión y las metas de negocios de Bellabeat, y a ver cómo puedes ayudar a la empresa a lograr estos objetivos desde tu lugar de analista de datos júnior.
+○	Equipo de análisis computacional de datos de marketing de Bellabeat: Un equipo de analistas de datos que se encarga de recopilar, analizar e informar datos que ayudan a conducir la estrategia de marketing de Bellabeat. Te incorporaste a este equipo hace seis meses y te has dedicado a conocer la misión y las metas de negocios de Bellabeat, y a ver cómo puedes ayudar a la empresa a lograr estos objetivos desde tu lugar de analista de datos júnior.  
 ●	Productos
 ○	Aplicación Bellabeat: La aplicación Bellabeat proporciona a los usuarios datos de salud relacionados con su actividad física, sueño, estrés, ciclo menstrual y hábitos de conciencia plena. Estos datos pueden ayudar a los usuarios a comprender sus hábitos actuales y adoptar decisiones saludables. La aplicación Bellabeat se conecta a su línea de productos de bienestar inteligentes.
 ○	Leaf: Dispositivo de seguimiento clásico de bienestar de Bellabeat que se puede usar como pulsera, collar o clip. El dispositivo Leaf se conecta a la aplicación Bellabeat para hacer un seguimiento de la actividad física, el sueño y el estrés.
