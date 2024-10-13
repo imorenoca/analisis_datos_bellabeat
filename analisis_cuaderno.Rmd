@@ -64,19 +64,20 @@ Respecto a la muestra, si es representativa respecto a la población, podemos in
 
 A continuación detallo los archivos que tenemos para nuestro análisis, son un total de 11 archivos. 
 
-| Archivo | Descripción |
-| ------- | ----------- |
-| dailyActivity_merged.csv | Actividad Diaria. Los campos que nos encontramos en este archivo son: Id,ActivityDate,TotalSteps,TotalDistance,TrackerDistance,LoggedActivitiesDistance,VeryActiveDistance,ModeratelyActiveDistance,LightActiveDistance,SedentaryActiveDistance,VeryActiveMinutes,FairlyActiveMinutes,LightlyActiveMinutes,SedentaryMinutes,Calories|
-| heartrate_seconds_merged.csv| Frecuencia Cardíaca en Segundos Id,Time,Value |
-| hourlyCalories_merged.csv | Calorias quemadas por horas Id,ActivityHour,Calories|
-| hourlyIntensities_merged.csv | Intensidad por horas Id, Hora de actividad, Intensidad total, Intensidad promedio|
-|hourlySteps_merged.csv| Horas de sueño Id,ActivityHour,StepTotal|
-| minuteCaloriesNarrow_merged.csv | Calorías gastadas por minutoId,ActivityMinute,Calories|
-|minuteIntensitiesNarrow_merged.csv | Id,ActivityMinute,Intensity |
-|minuteMETsNarrow_merged.csv | Id,ActivityMinute,METs  |
-|minuteSleep_merged.csv | Minutos de sueño Id,date,value,logId |
-|minuteStepsNarrow_merged.csv | Pasos por minuto Id,ActivityMinute,Steps |
-|weightLogInfo_merged.csv | Información sobre peso Id,Date,WeightKg,WeightPounds,Fat,BMI,IsManualReport,LogId |
+| Archivo                          | Descripción                                                                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| dailyActivity_merged.csv        | Actividad Diaria. Los campos que nos encontramos en este archivo son: Id, ActivityDate, TotalSteps, TotalDistance, TrackerDistance, LoggedActivitiesDistance, VeryActiveDistance, ModeratelyActiveDistance, LightActiveDistance, SedentaryActiveDistance, VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, SedentaryMinutes, Calories |
+| heartrate_seconds_merged.csv    | Frecuencia Cardíaca en Segundos. Campos: Id, Time, Value                                                    |
+| hourlyCalories_merged.csv       | Calorías quemadas por horas. Campos: Id, ActivityHour, Calories                                            |
+| hourlyIntensities_merged.csv    | Intensidad por horas. Campos: Id, Hora de actividad, Intensidad total, Intensidad promedio                  |
+| hourlySteps_merged.csv          | Horas de sueño. Campos: Id, ActivityHour, StepTotal                                                         |
+| minuteCaloriesNarrow_merged.csv | Calorías gastadas por minuto. Campos: Id, ActivityMinute, Calories                                          |
+| minuteIntensitiesNarrow_merged.csv | Campos: Id, ActivityMinute, Intensity                                                                     |
+| minuteMETsNarrow_merged.csv     | Campos: Id, ActivityMinute, METs                                                                             |
+| minuteSleep_merged.csv          | Minutos de sueño. Campos: Id, date, value, logId                                                             |
+| minuteStepsNarrow_merged.csv    | Pasos por minuto. Campos: Id, ActivityMinute, Steps                                                          |
+| weightLogInfo_merged.csv        | Información sobre peso. Campos: Id, Date, WeightKg, WeightPounds, Fat, BMI, IsManualReport, LogId          |
+
 
 * Metabolic Equivalent of Task (Equivalente Metabólico de Tarea). Un MET es una unidad de medida que indica la cantidad de energía que gasta una persona en una actividad en comparación con estar en reposo.
 
@@ -424,8 +425,8 @@ Podríamos concluir que nuestro público objetivo para las campañas de marketin
 
 Para ambos: 
 - Ofrecer productos que sean lígeros, cómodos y lo más automático posibles para registrar su rendimiento físico. 
-- Utilización de una aplicación premium con consejos de profesionales de la salud para resolver dudas.
-- Crear una comunidad de usuarios para compartir experiencias: aplicación gratuita.
+- Utilización de una aplicación premium con consejos de profesionales de la salud para resolver dudas.  
+- Crear una comunidad de usuarios para compartir experiencias: aplicación gratuita.  
 
 Posibilidad de incluir hombres y niños-as en el target objetivo, esto depende ya de la dirección de la empresa.
 
